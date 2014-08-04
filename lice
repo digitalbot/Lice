@@ -27,5 +27,6 @@ SOFTWARE.
 echo "LICENSE
 -----
 Copyright (C) $NAME
+
 This software is released under the MIT License, see LICENSE.txt.
 " >> README.md
